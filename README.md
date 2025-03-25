@@ -21,7 +21,7 @@ b) There are some more problems presented by the company which your model should
 Results Expected:
 
 1)A well-commented Jupyter notebook with at least the logistic regression model, the conversion predictions and evaluation metrics.
-2)he word document filled with solutions to all the problems.
+2)The word document filled with solutions to all the problems.
 3)The overall approach of the analysis in a presentation.
   a)Mention the problem statement and the analysis approach briefly 
   b)Explain the results in business terms
